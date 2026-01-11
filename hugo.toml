@@ -15,3 +15,8 @@ relativeURLs = true
   name = 'Archives événements Meetup'
   url = '/events/'
   weight = 10
+
+[[menu.main]]
+  name = 'Histoire'
+  url = '/site/'
+  weight = 9
